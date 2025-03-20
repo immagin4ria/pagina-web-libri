@@ -28,6 +28,7 @@ a{
 
 header :hover{
     text-decoration: underline;
+    color: #ff0000
 }
 
 section.info {
